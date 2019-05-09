@@ -29,7 +29,7 @@
 		</dependency>
 ``` 
 
-### 구글 APIS 홈페이지에 적어놓은 URL
+# 구글 APIS 홈페이지에 적어놓은 URL
 - 승인된 자바스크립트 원본
 http://localhost:8080	
 - 승인된 리디렉션 URI
